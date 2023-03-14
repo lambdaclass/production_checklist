@@ -7,7 +7,6 @@
 - set publics IPs and save it
 - easy access to the servers
 - configure backups
-- probar que el backup se levanta en produccion
 - configure updown calls and messages
 - configure metrics
 - log application errors in a channel
@@ -19,5 +18,4 @@
 ### In production
 - DON'T reboot all the servers at the same time!
 - work thinking and calm 
-- in other case you'll comit
 - if you are not calm you make more mistakes
