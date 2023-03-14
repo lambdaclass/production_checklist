@@ -1,4 +1,4 @@
-# Production Cheklist
+# Production Checklist
 
 ### Pre production
 - check open ports (wich one?)
